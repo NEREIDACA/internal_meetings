@@ -1,6 +1,6 @@
 # **Agenda de la Reunió de Kick-off – Projecte NEREIDA**
 
-**Data i lloc:** \[23 Setembre 2025]
+**Data i lloc:** 23 Setembre 2025
 **Participants:** Jordi Pagès, Rafael Marcé, Daniel Mercado-Bettín
 
 ---
