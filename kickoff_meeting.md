@@ -5,9 +5,9 @@
 
 ---
 
-### **09:30 – 09:45 | Benvinguda i objectius del dia**
+### **09:30 – 09:45 | Objectius del dia**
 
-* Breu repàs de la visió del projecte (Rafael)
+* Breu repàs de la visió del projecte
 * Ronda inicial: què esperem cadascú del projecte?
 
 **Preguntes guia:**
