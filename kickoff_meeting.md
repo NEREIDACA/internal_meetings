@@ -5,104 +5,49 @@
 
 ---
 
-### **09:30 – 09:45 | Objectius del dia**
+### **09:30 – 10:00 | Visió general del projecte**
 
-* Breu repàs de la visió del projecte
-* Ronda inicial: què esperem cadascú del projecte?
+1. Repàs de la visió del projecte
+  - Quin és l’objectiu principal que no podem perdre de vista?
+2. Què esperem cadascú del projecte?
+  - Quina seria, per a cadascú, la principal fita d’èxit d’aquest projecte?
 
-**Preguntes guia:**
+### **10:00 – 11:00 | Objectius del projecte i alineació**
 
-* Quin és l’objectiu principal que no podem perdre de vista?
-* Quina seria, per a cadascú, la principal fita d’èxit d’aquest projecte?
+3. Objectius principals i secundaris
+4. Resultats esperats i impacte científic/gestor
+  - Quines àrees requereixen més definició tècnica des de l’inici?
+5. Sinergies amb altres projectes i iniciatives
+  - Hi ha algun solapament o complementarietat amb altres projectes (ESCCAP. Universitat Ramon Llull; DINAICLIM. Universitat Politècnica de Catalunya; . IRRICAT. Universitat Autònoma de Barcelona; SAPIENS. Centre Internacional de Mètodes Numèrics a l’Enginyeria; SAAI. Universitat Politècnica de Catalunya; INUND-IA. Universitat de Barcelona.)?
+[Jornada ACA](https://aca.gencat.cat/web/.content/10_ACA/M_Campanyes_i_divulgacio/jornades-esdeveniments/PROGRAMA-JORNADA-RDI.pdf) 
 
----
+### **11:00 – 11:15 | Pausa cafè**
 
-### **09:45 – 10:45 | Visió general del projecte i alineació**
+### **11:15 – 13:30 | Paquets de treball (PT)**
 
-* Objectius principals i secundaris
-* Resultats esperats i impacte científic/gestor
-* Sinergies amb altres projectes i iniciatives
+6. - PT1 (Gestió): rols, ritme de reunions
+- PT2 (Co-desenvolupament amb ACA i difusió): primer contacte amb ACA (punts crítics?), programació d'altres reunions futures
+- PT3 (Bessons digitals): disseny de models, integració de dades i IA (Com es connectaran els models hidrològics, de qualitat de l’aigua i costaners?)
 
-**Preguntes guia:**
+### **13:30 – 14:00 | Dinar informal**
 
-* Quines fites podem aconseguir de manera ràpida (quick wins)?
-* Hi ha algun solapament o complementarietat amb projectes previs (WATExR, MANTEL, inventWater)?
-* Quines àrees requereixen més definició tècnica des de l’inici?
+### **14:00 – 15:00 | Sessió tècnica: dades i models**
 
----
-
-### **10:45 – 11:00 | Pausa cafè**
-
----
-
-### **11:00 – 12:30 | Paquets de treball (PT) en detall**
-
-* **PT1 (Gestió):** rols, ritme de reunions i canals de comunicació
-* **PT2 (Co-desenvolupament amb ACA i difusió):** primer contacte amb ACA, estat de l’art i necessitats dels usuaris
-* **PT3 (Bessons digitals):** arquitectura inicial dels models, integració de dades i IA
-
-**Preguntes guia:**
-
-* Quin és el flux de treball mínim viable per a cada PT?
-* Quins punts crítics hem de cobrir abans de la primera reunió amb l’ACA?
-* Com es connectaran els models hidrològics, de qualitat de l’aigua i costaners?
-
----
-
-### **12:30 – 13:30 | Dinar informal**
-
----
-
-### **13:30 – 15:00 | Sessió tècnica: dades i models**
-
-* Fonts de dades: in situ, satèl·lit (Landsat, MODIS, Sentinel), ISIMIP, ECMWF
-* Estratègia d’assimilació de dades i correcció de biaixos
-* HPC i configuració inicial dels fluxos de treball
-* Models d’IA i aprenentatge profund (LSTM, xarxes híbrides)
-
-**Preguntes guia:**
-
-* Quines fonts de dades estan disponibles des de ja?
-* Quins algoritmes d’assimilació prioritzem?
-* On podem començar a provar IA amb dades existents?
-* Quins recursos de HPC cal reservar i quan?
-
----
+7. Fonts de dades i DMP?: in situ, satèl·lit (Landsat, MODIS, Sentinel), ISIMIP, ECMWF
+8. HPC (comprem o quins recursos de HPC cal reservar i quan?) i configuració inicial dels fluxos de treball
+9. Models d’IA (LSTM, xarxes híbrides)
 
 ### **15:00 – 15:15 | Pausa cafè**
 
----
+### **15:15 – 16:00 | Riscos i oportunitats**
 
-### **15:15 – 16:15 | Mapatge de riscos i oportunitats**
+10. Identificació de colls d’ampolla (dades, temps de càlcul, coordinació)
+11. Riscos tècnics (precisió, robustesa, interoperabilitat), Com podem garantir que ACA veu utilitat des del principi?
+12. Quins elements podrien donar més projecció (articles, presentacions, connexions amb Destination Earth)?
 
-* Identificació de colls d’ampolla (dades, temps de càlcul, coordinació)
-* Riscos científics i tècnics (precisió, robustesa, interoperabilitat)
-* Oportunitats de visibilitat científica i col·laboracions externes
+### **16:00 – 17:00 | Full de ruta i pròximes passes**
 
-**Preguntes guia:**
-
-* Què podria fer descarrilar el projecte si no ho anticipem?
-* Quins elements podrien donar més projecció (articles, presentacions, connexions amb Destination Earth)?
-* Com podem garantir que ACA veu utilitat des del principi?
-
----
-
-### **16:15 – 17:00 | Full de ruta i pròximes passes**
-
-* Fites dels primers 3–6 mesos
-* Assignació de responsabilitats inicials
-* Planificació de la següent reunió de seguiment
-
-**Preguntes guia:**
-
-* Quins deliverables interns hauríem de tenir en 3 mesos?
-* Quin calendari és realista per als primers casos d’estudi amb l’ACA?
-* Quin format tindran les actualitzacions periòdiques?
-
----
-
-### **17:00 – 17:30 | Tancament i reflexió final**
-
-* Ronda ràpida: una idea clau o compromís de cadascú
-* Cloenda i preparació de pròximes reunions
+13. Fites dels primers 3–6 mesos
+14. Assignació de responsabilitats inicials
+15. Planificació de la següent reunió de seguiment
 
