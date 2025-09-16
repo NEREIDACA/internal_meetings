@@ -3,7 +3,7 @@
 **Data i lloc:** 23 Setembre 2025
 **Participants:** Jordi Pagès, Rafael Marcé, Daniel Mercado-Bettín
 
-----
+---
 
 ### **09:30 – 10:00 | Visió general del projecte**
 
